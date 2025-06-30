@@ -3,7 +3,7 @@ How to Contact Xfinity Customer Service?
 
 Xfinity, a brand owned by Comcast, serves millions of customers across the United States by providing internet, TV, mobile, home security, and phone services. With such a wide user base and a broad range of offerings, it’s natural that customers occasionally need help resolving issues, asking questions, or managing accounts. Whether you're facing technical problems, billing disputes, or just need information about your services, knowing how to contact **Xfinity customer service** is crucial.
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
